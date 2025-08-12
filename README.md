@@ -1,23 +1,3 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/e-learn)
-  ![GitHub stars](https://img.shields.io/github/stars/your-username/e-learn?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/your-username/e-learn?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/intent/follow?screen_name=your_twitter_username)
-
-  <br />
-  <br />
-
-  <h2 align="center">E-Learn - Online Learning Website</h2>
-
-  E-Learn is a simple and responsive online learning & portfolio website. <br />
-  It is responsive for all devices, built using **HTML, CSS, and JavaScript**.
-
-  <a href="https://yourusername.github.io/e-learn/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
 
 ## Demo Screenshots
 
