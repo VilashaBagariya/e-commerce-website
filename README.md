@@ -1,51 +1,57 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/footcap)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/footcap?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/footcap?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BsmRYjW4csw?style=social)](https://youtu.be/BsmRYjW4csw)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/e-learn)
+  ![GitHub stars](https://img.shields.io/github/stars/your-username/e-learn?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/your-username/e-learn?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/intent/follow?screen_name=your_twitter_username)
 
   <br />
   <br />
 
-  <h2 align="center">Footcap - eCommerce website</h2>
+  <h2 align="center">E-Learn - Online Learning Website</h2>
 
-  Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  E-Learn is a simple and responsive online learning & portfolio website. <br />
+  It is responsive for all devices, built using **HTML, CSS, and JavaScript**.
 
-  <a href="https://codewithsadee.github.io/footcap/"><strong>➥ Live Demo</strong></a>
+  <a href="https://yourusername.github.io/e-learn/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+## Demo Screenshots
 
-![Footcap Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![E-Learn Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+## Features
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- Responsive navigation bar with quick links.
+- Dynamic content loading using JavaScript `fetch()`.
+- Sections: Home, About, Projects, Contact.
+- Contact form for sending messages.
+- Footer with quick links, social media links, and newsletter subscription.
 
-### Run Locally
+---
 
-To run **Footcap** locally, run this command on your git bash:
+## Prerequisites
 
-Linux and macOS:
+Before you begin, ensure you have the following installed:
 
+- [Git](https://git-scm.com/downloads)  
+- A modern web browser (Chrome, Firefox, Edge, etc.)
+
+---
+
+## Run Locally
+
+To run **E-Learn** locally:
+
+### Linux and macOS:
 ```bash
-sudo git clone https://github.com/codewithsadee/footcap.git
-```
+sudo git clone https://github.com/your-username/e-learn.git
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/footcap.git
-```
-
-### Contact
 
 If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
